@@ -40,5 +40,4 @@ Welcome to Keystone Enclave's documentation!
    :numbered:
 
    Contributing-to-Keystone/How-to-Contribute
-   Contributing-to-Keystone/Known-Issues
    Contributing-to-Keystone/Future-Objectives

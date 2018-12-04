@@ -26,6 +26,12 @@ platform should be cross-platform themselves, to avoid fragmentation.
 See also the list of known areas to work on, we need better platform
 specific builds!
 
+Known Issues
+------------
+
+Check out the github isses pages for all Keystone subprojects to
+report problems or find places to contribute.
+
 General Contributions
 ---------------------
 
