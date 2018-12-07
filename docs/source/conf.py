@@ -19,9 +19,9 @@
 
 # -- Project information -----------------------------------------------------
 
-project = u'Keystone Enclave'
-copyright = u'2018, Dayeol Lee, and David Kohlbrenner'
-author = u'Dayeol Lee, and David Kohlbrenner'
+project = 'keystone'
+copyright = '2018, Dayeol Lee, and David Kohlbrenner'
+author = 'Dayeol Lee, and David Kohlbrenner'
 
 # The short X.Y version
 version = u'0.1'
